@@ -11,7 +11,10 @@ export default function lab1({ file }) {
         <title>Lab 1 - MODE 4201</title>
         <meta name="description" content="Description of Lab 1" />
       </Head>
-       <embed src="https://drive.google.com/file/d/1kmzGwHbn_IA-L9xEvV6U_OIIlyDH23E7/preview" alt="" allow='autoplay' className='h-full min-h-screen rounded-md'></embed> 
+      <h1 className='font-t my-7 mx-3 text-3xl'>
+        Lab 1
+      </h1>
+       <embed src="https://drive.google.com/file/d/1kmzGwHbn_IA-L9xEvV6U_OIIlyDH23E7/preview"   alt="" allow='autoplay' className='h-full min-h-screen rounded-md'></embed> 
    </div>
   )
 }

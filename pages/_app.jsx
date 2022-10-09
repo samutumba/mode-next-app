@@ -20,7 +20,7 @@ function MyApp({ Component, pageProps }) {
 
 const Layout = ({ children }) => {
  return (    
-    <div className="bg-midnight-blue dark h-full w-full min-h-screen text-white font-p px-12">
+    <div className="bg-midnight-blue dark h-full w-full min-h-screen text-white font-p px-12" suppressHydrationWarning>
       
 <nav class=" px-2 sm:px-4 py-2.5 md:py-7 ">
   <div class="container flex flex-wrap justify-between items-center mx-auto">
