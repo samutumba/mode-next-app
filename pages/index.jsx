@@ -15,7 +15,7 @@ export default function Home() {
         <div className='flex text-[#fffb] flex-col gap-2'>
           <h2 className='font-t text-white text-xl font-bold'>Hello,</h2>
           <p>I&apos;m Samuel Jeremiah Kayongo-Mutumba Jr. </p>
-          <p className='flex flex-row items-center gap-2'><Image src={'https://i.postimg.cc/TwhWkmFz/DCShield.png'} height={27} width={25} / > Computer Programming and Anaylsis Student at Durham College.</p>
+          <p className='flex flex-row items-center gap-2'><Image src={'https://i.postimg.cc/TwhWkmFz/DCShield.png'} height={27} width={25} /> Computer Programming and Anaylsis Student at Durham College.</p>
           <p className='flex flex-row items-center gap-2'><Icon icon="emojione:flag-for-uganda" className='text-2xl' /> Ugandan</p>
          <p className='text-white'>My Passions are; </p> 
           <span className='my-2 flex-row gap-3 flex flex-wrap'>
