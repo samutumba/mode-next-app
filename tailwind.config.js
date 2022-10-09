@@ -20,7 +20,7 @@ module.exports = {
       'iron': '#e1e1e1',
       'evening-blue': '#3261fa',
       'tint-blue': '#fefaf7',
-      'midnight-blue': '#07003e',
+      'midnight-blue': '#060130',
       'gold': '#F3AC70',
       'dirt': '#090604',
       'dark-blue': '#00273D',
@@ -32,7 +32,8 @@ module.exports = {
 
   },
   plugins: [
-    require('flowbite/plugin')
+    require('flowbite/plugin'),
+     require('flowbite-typography'),
   ],
 }
  
