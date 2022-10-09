@@ -5,8 +5,12 @@ import { Icon } from '@iconify/react';
 export default function Home() {
   return (
     <div className='flex flex-col gap-2 justify-center w-full h-full'>
+       <Head>
+        <title>MODE4201 - Mobile Development 4201 Website</title>
+        <meta name="description" content="Lab 2 - Mobile Architecture and Development ToolThis course investigates the different Mobile Architectures (Native, Web App and Cross-Platform) on various Platforms with examples" />
+      </Head>
       <div className='my-3 text-center text-2xl font-t'>
-        Welcome to my MODE4202 - Mobile Development 4202 Website
+        Welcome to my MODE4201 - Mobile Development 4201 Website
       </div>
       <div className='w-full flex flex-row justify-evenly flex-wrap'>
         <div className='w-48'>

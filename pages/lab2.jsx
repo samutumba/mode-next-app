@@ -7,6 +7,10 @@ import {SiNetlify,SiNextdotjs} from "react-icons/si"
 export default function lab2() {
   return (
     <div className='flex flex-col gap-4'>
+      <Head>
+        <title>Lab 2 - MODE 4201</title>
+        <meta name="description" content="Lab 2 - Mobile Architecture and Development Tool" />
+      </Head>
       <h1 className='font-t my-4 text-4xl'>
         Lab 2
       </h1>
