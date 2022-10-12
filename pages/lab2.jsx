@@ -47,7 +47,9 @@ export default function lab2() {
         Third Party Andriod Emulator Installation and Testing
       </h3>
       <div>
-        <video src="https://youtu.be/3ffx8knvM8I" alt="" className="w-full h-auto rounded-md" autoPlay/>
+        <button className='py-2 px-7 rounded-lg bg-white text-black'>
+          <Icon icon="logos:youtube" /> Click to watch Emulator video
+        </button>
       </div>
       <h3 className='font-t text-2xl'>
         Mobile Application Development Tool  
