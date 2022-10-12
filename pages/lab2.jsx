@@ -46,6 +46,9 @@ export default function lab2() {
       <h3 className='font-t text-2xl'>
         Third Party Andriod Emulator Installation and Testing
       </h3>
+      <div>
+        <video src="https://youtu.be/3ffx8knvM8I" alt="" className="w-full h-auto rounded-md" autoPlay/>
+      </div>
       <h3 className='font-t text-2xl'>
         Mobile Application Development Tool  
       </h3>
